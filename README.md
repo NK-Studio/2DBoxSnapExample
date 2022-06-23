@@ -6,3 +6,6 @@
 https://user-images.githubusercontent.com/53283888/175222440-8362b870-3939-46c7-807d-9b46f4c7c70f.mp4
 
 박스를 마우스로 클릭하면 스냅이 된다.
+
+### 제작과정 설명
+https://pebble-glider-f8f.notion.site/2DBoxSnapExample-b47b744c5cd54ca382256a9432f8a1b1
